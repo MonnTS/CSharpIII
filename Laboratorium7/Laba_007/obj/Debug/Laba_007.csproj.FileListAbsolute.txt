@@ -1,0 +1,9 @@
+C:\Users\Monn\source\repos\Laba_007\Laba_007\obj\Debug\Laba_007.csprojAssemblyReference.cache
+C:\Users\Monn\source\repos\Laba_007\Laba_007\obj\Debug\Laba_007.Form1.resources
+C:\Users\Monn\source\repos\Laba_007\Laba_007\obj\Debug\Laba_007.Properties.Resources.resources
+C:\Users\Monn\source\repos\Laba_007\Laba_007\obj\Debug\Laba_007.csproj.GenerateResource.cache
+C:\Users\Monn\source\repos\Laba_007\Laba_007\bin\Debug\Laba_007.exe.config
+C:\Users\Monn\source\repos\Laba_007\Laba_007\bin\Debug\Laba_007.exe
+C:\Users\Monn\source\repos\Laba_007\Laba_007\bin\Debug\Laba_007.pdb
+C:\Users\Monn\source\repos\Laba_007\Laba_007\obj\Debug\Laba_007.exe
+C:\Users\Monn\source\repos\Laba_007\Laba_007\obj\Debug\Laba_007.pdb
