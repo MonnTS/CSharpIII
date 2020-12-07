@@ -1,0 +1,6 @@
+C:\Users\Monn\source\repos\Kolokwium2\Kolokwium2\bin\Debug\Kolokwium2.exe.config
+C:\Users\Monn\source\repos\Kolokwium2\Kolokwium2\bin\Debug\Kolokwium2.exe
+C:\Users\Monn\source\repos\Kolokwium2\Kolokwium2\bin\Debug\Kolokwium2.pdb
+C:\Users\Monn\source\repos\Kolokwium2\Kolokwium2\obj\Debug\Kolokwium2.csprojAssemblyReference.cache
+C:\Users\Monn\source\repos\Kolokwium2\Kolokwium2\obj\Debug\Kolokwium2.exe
+C:\Users\Monn\source\repos\Kolokwium2\Kolokwium2\obj\Debug\Kolokwium2.pdb
