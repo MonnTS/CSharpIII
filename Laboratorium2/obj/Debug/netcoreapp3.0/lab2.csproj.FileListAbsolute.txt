@@ -1,0 +1,33 @@
+C:\Users\Admin\source\repos\wetoszka\lab2\lab2\bin\Debug\netcoreapp3.0\lab2.exe
+C:\Users\Admin\source\repos\wetoszka\lab2\lab2\bin\Debug\netcoreapp3.0\lab2.deps.json
+C:\Users\Admin\source\repos\wetoszka\lab2\lab2\bin\Debug\netcoreapp3.0\lab2.runtimeconfig.json
+C:\Users\Admin\source\repos\wetoszka\lab2\lab2\bin\Debug\netcoreapp3.0\lab2.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\wetoszka\lab2\lab2\bin\Debug\netcoreapp3.0\lab2.dll
+C:\Users\Admin\source\repos\wetoszka\lab2\lab2\bin\Debug\netcoreapp3.0\lab2.pdb
+C:\Users\Admin\source\repos\wetoszka\lab2\lab2\obj\Debug\netcoreapp3.0\lab2.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\wetoszka\lab2\lab2\obj\Debug\netcoreapp3.0\lab2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\wetoszka\lab2\lab2\obj\Debug\netcoreapp3.0\lab2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\wetoszka\lab2\lab2\obj\Debug\netcoreapp3.0\lab2.dll
+C:\Users\Admin\source\repos\wetoszka\lab2\lab2\obj\Debug\netcoreapp3.0\lab2.pdb
+D:\С# projekty\lab2\lab2\obj\Debug\netcoreapp3.0\lab2.csprojAssemblyReference.cache
+D:\С# projekty\lab2\lab2\obj\Debug\netcoreapp3.0\lab2.AssemblyInfoInputs.cache
+D:\С# projekty\lab2\lab2\obj\Debug\netcoreapp3.0\lab2.AssemblyInfo.cs
+D:\С# projekty\lab2\lab2\obj\Debug\netcoreapp3.0\lab2.dll
+D:\С# projekty\lab2\lab2\obj\Debug\netcoreapp3.0\lab2.pdb
+D:\С# projekty\lab2\lab2\bin\Debug\netcoreapp3.0\lab2.exe
+D:\С# projekty\lab2\lab2\bin\Debug\netcoreapp3.0\lab2.deps.json
+D:\С# projekty\lab2\lab2\bin\Debug\netcoreapp3.0\lab2.runtimeconfig.json
+D:\С# projekty\lab2\lab2\bin\Debug\netcoreapp3.0\lab2.runtimeconfig.dev.json
+D:\С# projekty\lab2\lab2\bin\Debug\netcoreapp3.0\lab2.dll
+D:\С# projekty\lab2\lab2\bin\Debug\netcoreapp3.0\lab2.pdb
+D:\lab2\lab2\bin\Debug\netcoreapp3.0\lab2.exe
+D:\lab2\lab2\bin\Debug\netcoreapp3.0\lab2.deps.json
+D:\lab2\lab2\bin\Debug\netcoreapp3.0\lab2.runtimeconfig.json
+D:\lab2\lab2\bin\Debug\netcoreapp3.0\lab2.runtimeconfig.dev.json
+D:\lab2\lab2\bin\Debug\netcoreapp3.0\lab2.dll
+D:\lab2\lab2\bin\Debug\netcoreapp3.0\lab2.pdb
+D:\lab2\lab2\obj\Debug\netcoreapp3.0\lab2.csprojAssemblyReference.cache
+D:\lab2\lab2\obj\Debug\netcoreapp3.0\lab2.AssemblyInfoInputs.cache
+D:\lab2\lab2\obj\Debug\netcoreapp3.0\lab2.AssemblyInfo.cs
+D:\lab2\lab2\obj\Debug\netcoreapp3.0\lab2.dll
+D:\lab2\lab2\obj\Debug\netcoreapp3.0\lab2.pdb
